@@ -1,0 +1,1 @@
+web: ventor/bin/heroku-php-apache2 public/
